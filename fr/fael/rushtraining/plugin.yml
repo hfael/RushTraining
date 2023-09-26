@@ -1,0 +1,14 @@
+name: RushTraining
+main: fr.fael.rushtraining.RushTraining
+author: Fael
+version: 1
+commands:
+   rushtraining:
+      description: Commande du plugin rushtraining !
+      usage: /<command>
+   resetblock:
+      description: Commande du plugin rushtraining !
+      usage: /<command>
+   allbridge:
+      description: Commande du plugin rushtraining !
+      usage: /<command>
